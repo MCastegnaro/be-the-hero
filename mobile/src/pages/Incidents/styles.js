@@ -20,9 +20,22 @@ export default StyleSheet.create({
         color: '#737380'
     },
 
+
     headerTextBold: {
         fontWeight: 'bold'
     },
+
+    footer: {
+        flexDirection: 'row',
+        justifyContent: 'center',
+    },
+
+
+    footerText: {
+        fontSize: 15,
+        color: '#737380',
+    },
+
 
     title: {
         fontSize: 30,
